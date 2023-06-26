@@ -1,0 +1,40 @@
+body {
+    background: #9ac0d3;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black; 
+    display: grid;
+    place-content: center;
+    height: 100vh;
+}
+
+section {
+    width: 18.25rem;
+    height: 28.25rem;
+    border-radius: 1.5rem;
+    background: white;
+    text-align: center;
+    font-weight: bold;
+    padding: 1.25rem;
+    font-size: 1.25rem;
+    
+}
+
+p {
+    font-weight: lighter;
+    font-size: 0.90rem;
+    color: #655E5E;
+    padding: 1rem;
+}
+img {
+    width: 18.0625rem;
+    border-radius: 1.2rem;
+    margin-bottom: 1rem;
+}
+footer {
+    font-weight: lighter;
+    padding: 2.25rem;
+    font-size: 16px;
+    text-align: center;
+    color: whitesmoke;
+    font-family: candara;
+}
